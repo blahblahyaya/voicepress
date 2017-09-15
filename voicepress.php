@@ -1,3 +1,7 @@
+<?php
+/*
+Plugin Name: VoicePress Plugin
+*/
 /**
  * Register a skill post type, with REST API support
  *
